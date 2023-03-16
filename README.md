@@ -101,4 +101,48 @@
 - 'git pull'
 
 ### Fakeing Teamwork
-- '
+- 'git clone'
+- 'git fakeTeamwork main 2'
+- 'git commit'
+- 'git pull'
+
+### Git Pushin’
+- 'git commit'
+- 'git commit'
+- 'git push'
+
+### Diverged History
+- 'git clone'
+- 'git fakeTeamwork'
+- 'git commit'
+- 'git pull --rebase'
+- 'git push'
+
+### Push Master!
+- 'git checkout -b feature'
+- 'git checkout main'
+- 'git reset --hard o/master'
+- 'git push origin feature'
+- 'git checkout feature'
+
+### Push Master!
+- 'git fetch'
+- 'git rebase o/master side1'
+- 'git rebase side1 side2'
+- 'git rebase side2 side3'
+- 'git rebase side3 main'
+- 'git push'
+
+### Merging with remotes
+- 'git checkout main'
+- 'git pull'
+- 'git merge side1'
+- 'git merge side2'
+- 'git merge side3'
+- 'git push'
+
+### 
+
+
+
+

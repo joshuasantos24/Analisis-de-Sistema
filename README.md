@@ -141,7 +141,39 @@
 - 'git merge side3'
 - 'git push'
 
-### 
+### Remoting Tracking
+- 'git checkout -b side o/main'
+- 'git commit'
+- 'git pull --rebase'
+- 'git push'
+
+### Git Push Arguments
+- 'git push origin main'
+- 'git push origin foo'
+
+###  Git Push Arguments -- Expanded!
+- 'git push origin main~1:foo'
+- 'git push origin foo:main'
+
+###  Fetch Arguments
+- 'git fetch origin main~1:foo'
+- 'git fetch origin foo:main'
+- 'git checkout foo'
+- 'git merge main'
+
+### Source of Nothing
+- 'git push origin :foo'
+- 'git fetch origin :bar'
+
+### Pull Arguments
+- 'git pull origin bar:foo'
+- 'git pull origin main:side'
+
+![Screenshot (10)](https://user-images.githubusercontent.com/127904986/226084272-3f5714f4-f5b6-42b0-8abc-feb220b78b87.png)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/127904986/226084291-3186972b-3079-448b-8ed7-da3b96d8a926.png)
+
+
 
 
 

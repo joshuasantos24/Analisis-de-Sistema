@@ -169,9 +169,11 @@
 - 'git pull origin bar:foo'
 - 'git pull origin main:side'
 
-![Screenshot (10)](https://user-images.githubusercontent.com/127904986/226084272-3f5714f4-f5b6-42b0-8abc-feb220b78b87.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/127904986/226084318-aef7901b-5710-41fb-bb74-0b988c36dca4.png)
 
-![Screenshot (11)](https://user-images.githubusercontent.com/127904986/226084291-3186972b-3079-448b-8ed7-da3b96d8a926.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/127904986/226084327-f41247be-0506-4fd6-9f47-a8f7ebb50a91.png)
+
+
 
 
 

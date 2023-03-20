@@ -46,7 +46,7 @@
 - 'git rebase -i main~4 --aboveAll'
 
 ### Grabbing Just 1 Commit
-- 'git checkout master'
+- 'git checkout main'
 - 'git cherry-pick C4'
 
 ### Juggling Commits

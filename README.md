@@ -118,10 +118,10 @@
 - 'git pull --rebase'
 - 'git push'
 
-### Push Master!
+### Locked Main
 - 'git checkout -b feature'
 - 'git checkout main'
-- 'git reset --hard o/master'
+- 'git reset --hard o/main'
 - 'git push origin feature'
 - 'git checkout feature'
 

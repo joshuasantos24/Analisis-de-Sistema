@@ -1,4 +1,4 @@
-# Analisis-de-Sistema
+# Analisis de Sistemas
 
 ## Joshua Santos (2022-0151)
 

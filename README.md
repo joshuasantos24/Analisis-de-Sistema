@@ -28,12 +28,12 @@
 
 ### Relative refs (^)
 - 'git checkout bugFix^'
-
+''''''''''''''''''''''''''''''''
 ### Relative refs #2 (~)
-- git branch -f main C6
-- git branch -f bugFix C0
-- git checkout C1
-
+- 'git branch -f main C6'
+- 'git branch -f bugFix C0'
+- 'git checkout C1'
+''''''''''''''''''''''''''''''''
 ### Reversing Changes in Git
 - 'git reset local~1'
 - git checkout pushed'
